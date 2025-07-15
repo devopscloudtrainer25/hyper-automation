@@ -1,7 +1,0 @@
-   * Repository creation and delete
-    * Branch creation and deletion
-    * Tag creation and deletion
-    * Add/delete files and commit changes
-    * List commits and check detailed info about commits
-
-New work assigned
