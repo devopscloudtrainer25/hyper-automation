@@ -1,0 +1,12 @@
+3. git pull: git pull is use for downloading updated changes from remote github repository branch to local git repository branch.
+
+    command: git pull origin branch_name
+             git pull -f origin branch_name
+
+
+origin - alais or short name of github remote url
+      
+[root@ip-172-31-3-72 hyper-automation]# git remote -v
+origin  https://github.com/devopscloudtrainer25/hyper-automation.git (fetch)
+origin  https://github.com/devopscloudtrainer25/hyper-automation.git (push)
+[root@ip-172-31-3-72 hyper-automation]# 
