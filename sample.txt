@@ -1,0 +1,5 @@
+2. git push: Git push is used for uploading updated changes from local git repository branch to remote github repository branch.
+
+ command: git push origin branch_name
+          git push -f origin branch_name
+       
